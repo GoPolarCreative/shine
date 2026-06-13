@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.shinedisabilitycare.com.au/</loc>
+
+    <image:image>
+      <image:loc>https://www.shinedisabilitycare.com.au/support-coordination-gold-coast.jpg</image:loc>
+      <image:title>Support worker and participant on a Gold Coast coastal walk — Shine Disability Care</image:title>
+      <image:caption>Shine Disability Care NDIS support worker accompanying a participant on a coastal walk in Queensland</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.shinedisabilitycare.com.au/ndis-community-participation-support.jpg</image:loc>
+      <image:title>NDIS Community Participation Support — Shine Disability Care</image:title>
+      <image:caption>Participant and support worker enjoying community access activities together on the Gold Coast</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.shinedisabilitycare.com.au/disability-support-gold-coast.png</image:loc>
+      <image:title>Disability Support Services Gold Coast — Shine Disability Care</image:title>
+      <image:caption>Support worker assisting a participant with daily living tasks at home on the Gold Coast</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.shinedisabilitycare.com.au/Shine_Disability_Care_NDIS_Registered_Provider.png</image:loc>
+      <image:title>Shine Disability Care — NDIS Registered Provider</image:title>
+      <image:caption>Official NDIS Registered Provider badge for Shine Disability Care Pty Ltd, Queensland</image:caption>
+    </image:image>
+
+  </url>
+</urlset>
